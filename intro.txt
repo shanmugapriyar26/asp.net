@@ -1,0 +1,3 @@
+asp.net --> framework developed by microsoft to build dynamic web applications
+view state --> web app work on http protocol. http is stateless means it doesn't retain state between user requests
+dependency injection --> container dependency is the integral part of dot net
