@@ -1,3 +1,5 @@
 asp.net --> framework developed by microsoft to build dynamic web applications
 view state --> web app work on http protocol. http is stateless means it doesn't retain state between user requests
 dependency injection --> container dependency is the integral part of dot net
+ASP.NET master pages --> asp.net utilize master template which are centralized files where you can manage header, footer and body of the web page.
+server controls -->web server, html server,validation server controls
