@@ -8,7 +8,7 @@
                         <header class="panel-heading">
                             <div class="col2">
                                 <h1>
-                                    Registration form
+                                    Registration form 1
                                 </h1>
                             </div>
                         </header>
