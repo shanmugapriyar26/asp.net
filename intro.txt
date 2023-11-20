@@ -3,3 +3,21 @@ view state --> web app work on http protocol. http is stateless means it doesn't
 dependency injection --> container dependency is the integral part of dot net
 ASP.NET master pages --> asp.net utilize master template which are centralized files where you can manage header, footer and body of the web page.
 server controls -->web server, html server,validation server controls
+
+view state --> . The ViewState property provides an object fo
+retaining values between multiple requests for the
+same page.
+. It is the default method that a page uses to preserve
+page values between round trips.
+· ViewState data is serialized into base-64 encoded
+strings and is stored in Hidden input field named _VIEWSTATE
+
+Web form page life cycle
+1. The page request
+2. Start
+3. Page initialization
+4. Page load
+5. Page validation
+6. Post back event handling
+7. rendering
+8. Unload
