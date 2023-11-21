@@ -21,3 +21,9 @@ Web form page life cycle
 6. Post back event handling
 7. rendering
 8. Unload
+
+VALIDATION
+  Server side validation
+  Client side validation
+In asp.net both validation is done in one
+
